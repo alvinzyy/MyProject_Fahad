@@ -1,2 +1,2 @@
-Repository baru dari PC lokal
-Belajar Reset dan Revert
+Repository baru dari pc lokal
+Belajar reset dan revert
